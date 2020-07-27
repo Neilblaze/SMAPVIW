@@ -61,6 +61,9 @@
   const scanWebiste = async url => {
     $spinner.hidden = false
     const json = await (await fetch(`scan?url=${url}`)).json()
+    if (network) {
+      network.destro()
+    }
     network = new vis.Network($json, {
       nodes: getNodes(json),
       edges: getEdges(json)

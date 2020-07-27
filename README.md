@@ -2,10 +2,10 @@
   <img src="https://raw.githubusercontent.com/Neilblaze/SVG-store/master/accessories/arrow.png" width="150px">
   <br>
 <div align="center">
-  SMAPVIW
+  <font size="5"> SMAPVIW </font>
 </div>
 
-
+<br><br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Neilblaze/SVG-store/master/accessories/Smapviw%20snaps/D1.png">
   <br>

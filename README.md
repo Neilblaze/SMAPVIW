@@ -1,9 +1,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Neilblaze/SVG-store/master/accessories/arrow.png" width="150px">
   <br>
-->SMAPVIW<-
+<div align="center">
+  SMAPVIW
+</div>
 
-https://img.shields.io/github/issues/Neilblaze/SMAPVIW
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Neilblaze/SVG-store/master/accessories/Smapviw%20snaps/D1.png">

@@ -19,7 +19,7 @@
   <img src="https://raw.githubusercontent.com/Neilblaze/SMAPVIW/master/public/REC2x.gif">
 </p>
 
-Sitemap Visualizer built upon D3.js
+Sitemap Visualizer built upon [D3.js[(https://d3js.org/)
 
 ~~Coming Soon~~ [Released](https://github.com/Neilblaze/SMAPVIW/releases/tag/v1.0) 😎
 

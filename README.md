@@ -13,6 +13,12 @@
   <img src="https://raw.githubusercontent.com/Neilblaze/SVG-store/master/accessories/Smapviw%20snaps/D2.png">
 </p>
 
+### Example -
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Neilblaze/SMAPVIW/master/public/REC2x.gif">
+</p>
+
 Sitemap Visualizer built upon D3.js
 
 ~~Coming Soon~~ [Released](https://github.com/Neilblaze/SMAPVIW/releases/tag/v1.0) 😎

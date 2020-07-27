@@ -8,7 +8,7 @@
 
 Sitemap Visualizer built upon D3.js
 
-Coming Soon 😎
+~~Coming Soon~~ [Released](https://github.com/Neilblaze/SMAPVIW/releases/tag/v1.0) 😎
 
 
 ### Installation :

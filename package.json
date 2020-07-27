@@ -1,0 +1,21 @@
+{
+  "name": "smapviw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Neilblaze",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node lib/index.js",
+    "dev": "nodemon lib/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "jsdom": "^16.2.2",
+    "uuid": "^7.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}

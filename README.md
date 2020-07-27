@@ -29,4 +29,4 @@ yarn && yarn dev
 ##### Project is still under development mode! Feel free to contribute by dropping your issue(s) [here](https://github.com/Neilblaze/SMAPVIW/issues)
 ##### © [Neilblaze](neilblaze.live) 2020
 
-[![HitCount](http://hits.dwyl.com/Neilblaze/SMAPVIW.svg)](http://hits.dwyl.com/Neilblaze/SMAPVIW)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNeilblaze%2FSMAPVIW)](https://hits.seeyoufarm.com)
